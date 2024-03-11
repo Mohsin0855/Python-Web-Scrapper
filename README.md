@@ -17,4 +17,4 @@ This repository contains Python scripts for web scraping using Beautiful Soup.
 2. Update the ```url``` variable with the URL of the webpage you want to scrape.
 3. Run the script:
 ``` bash
-   python scrape.py
+   python Basic Scrape.py
