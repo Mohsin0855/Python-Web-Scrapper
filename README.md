@@ -6,7 +6,7 @@ This repository contains Python scripts for web scraping using Beautiful Soup.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-scraping.git
+   git clone https://github.com/Mohsin0855/web-scraping.git
 2. Install the required libraries:
    ```bash
    pip install requests
